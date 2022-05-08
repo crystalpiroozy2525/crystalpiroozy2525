@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @crystalpiroozy2525
 - 👀 I’m interested in data management and statistical analysis for geospatial technologies.
-- 🌱 I’m currently learning Python, R, and SQL for GIS.
+- 🌱So far I have learned Python, R, and SQL for GIS.
+- 🌱C# and .NET languages are up next. 
 - 📫 Please message me to reach me. 
 
 <!---
